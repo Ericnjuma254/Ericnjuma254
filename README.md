@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Ericnjuma254
-- 👀 I’m interested in ... javascript, Html and css, python
-- 🌱 I’m currently learning ... Diploma in Business Information Technology(DBIT)
-- 💞️ I’m looking to collaborate on ... creating a full responsive paypal kind app
+- 👀 Understanding three.js is one of the best language have learnt so far
+- 
+- 🌱 Finnished my DBIT(Diploma in Information Technology)
+- 💞️ I’m looking to collaborate on ... creating an app that will help track your movements and is able to have a pop-notification if an app is timed out it will no longer open not untill the rest timeis due
+- 
 - 📫 How to reach me ... ericnjuma9@gmail.com
 
 <!---
